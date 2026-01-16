@@ -699,9 +699,9 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 Full-stack developer with expertise in modern web technologies, SaaS applications, and enterprise software design. Passionate about creating scalable, user-centric solutions.
 
-- GitHub: [@solomonkassa](https://github.com)
-- Email: solomon@kassa.dev
-- Portfolio: [kassa.dev](https://kassa.dev)
+- GitHub: [@solomonkassa](https://github.com/solomonkassa)
+- Email: me@solomonkassa.dev
+- Portfolio: [kassa.dev](https://solomonkassa.dev)
 
 ---
 
